@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fofoca.ai",
-    "slug": "fofoca-ai",
+    "name": "plus",
+    "slug": "plus",
     "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -30,10 +30,10 @@
         "projectId": "d074db25-afbe-4841-a2c8-8328837a19ba"
       }
     },
-    "owner": "fofoca-ai",
+    "owner": "theplus",
     "runtimeVersion": "1.0.0",
     "updates": {
-      "url": "https://u.expo.dev/c56de424-31a1-4148-84e7-9d1434b897c3"
+      "url": "https://u.expo.dev/d074db25-afbe-4841-a2c8-8328837a19ba"
     }
   }
 }
